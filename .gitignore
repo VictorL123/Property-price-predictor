@@ -1,0 +1,11 @@
+# ignore all files in __pycache__
+__pycache__/
+
+# ignore all files in .vs
+.vs/
+
+#ignore all csv files
+*.csv
+
+#ignore /pkl files
+*.pkl
