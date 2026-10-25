@@ -5,7 +5,7 @@ data, with an interactive interface including a map view.
 
 ## Documentation
 Full write-up of the data collection, modelling and results:
-[Project documentation (PDF)](docs/documentation.pdf)
+[Project documentation (PDF)](docs/Project Documentation.pdf)
 
 ## What it does
 - Scrapes and cleans over 10,000 property listings from postcode area
